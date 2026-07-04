@@ -1,0 +1,11 @@
+{
+  "run_id": "v5_qwen3_1.7b_r128_e3",
+  "rouge1_f_mean": 0.5755875669530165,
+  "rougeL_f_mean": 0.5288960923197483,
+  "holdout_n": 200,
+  "infer_seconds_total": 1540.7043359279633,
+  "infer_seconds_per_sample": 7.703521679639817,
+  "train_seconds": 16944.031304359436,
+  "pred_len_chars_mean": 1058.73,
+  "ref_len_chars_mean": 1032.01
+}

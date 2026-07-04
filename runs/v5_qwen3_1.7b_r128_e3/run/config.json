@@ -1,0 +1,16 @@
+{
+  "run_id": "v5_qwen3_1.7b_r128_e3",
+  "base_model": "Qwen/Qwen3-1.7B",
+  "max_len": 1536,
+  "epochs": 3.0,
+  "lr": 0.0001,
+  "batch": 1,
+  "grad_accum": 16,
+  "lora_r": 128,
+  "lora_alpha": 256,
+  "lora_dropout": 0.05,
+  "seed": 42,
+  "holdout_size": 200,
+  "gen_max_new_tokens": 1024,
+  "eval_batch": 4
+}

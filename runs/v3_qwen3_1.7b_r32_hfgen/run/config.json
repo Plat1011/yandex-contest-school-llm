@@ -1,0 +1,16 @@
+{
+  "run_id": "v3_qwen3_1.7b_r32_hfgen",
+  "base_model": "Qwen/Qwen3-1.7B",
+  "max_len": 2048,
+  "epochs": 2.0,
+  "lr": 0.0002,
+  "batch": 2,
+  "grad_accum": 8,
+  "lora_r": 32,
+  "lora_alpha": 64,
+  "lora_dropout": 0.05,
+  "seed": 42,
+  "holdout_size": 200,
+  "gen_max_new_tokens": 1024,
+  "eval_batch": 4
+}

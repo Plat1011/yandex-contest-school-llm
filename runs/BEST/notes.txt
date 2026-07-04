@@ -1,0 +1,7 @@
+ROUGE-L: 0.526
+ROUGE-1: 0.574
+holdout_n: 200
+train_seconds: 12136 (3.4h)
+infer_seconds_per_sample: 7.7 (transformers.generate, batch=4)
+
+v4 in flight: same as v3 but lora_r=64, lora_alpha=128 (pure capacity test).

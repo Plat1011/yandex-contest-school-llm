@@ -1,0 +1,11 @@
+{
+  "run_id": "v3_qwen3_1.7b_r32_hfgen",
+  "rouge1_f_mean": 0.5800994124336427,
+  "rougeL_f_mean": 0.5330597751918575,
+  "holdout_n": 200,
+  "infer_seconds_total": 1717.6780443191528,
+  "infer_seconds_per_sample": 8.588390221595764,
+  "train_seconds": 12216.043004512787,
+  "pred_len_chars_mean": 1066.6,
+  "ref_len_chars_mean": 1032.01
+}

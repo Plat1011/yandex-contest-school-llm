@@ -1,0 +1,13 @@
+{
+  "id": "platonmanko/school-sft-qwen3-17b-eval",
+  "title": "school-sft-qwen3-17b-eval",
+  "code_file": "eval_notebook.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["platonmanko/school-ml-challenge"],
+  "kernel_sources": ["platonmanko/school-sft-qwen3-17b"],
+  "competition_sources": []
+}

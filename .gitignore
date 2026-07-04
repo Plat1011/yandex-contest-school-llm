@@ -1,0 +1,17 @@
+weights/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+out/
+*.zip
+.ipynb_checkpoints/
+kaggle.json
+.kaggle/
+kaggle_dataset/*.parquet
+runs/*/base_weights/
+runs/*/merged_weights/
+runs/*/*.tar
+submission.zip
+next_4b/weights/
